@@ -62,7 +62,9 @@ h1 {
 .flex {
   display: flex;
 }
-
+#root >h1{
+  color: black;
+}
 .main-list {
   padding: 20px;
   font-size: 19px;
